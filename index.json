@@ -1,0 +1,12 @@
+{
+  "progminiweb": {
+    "name": "ProgMiniWeb",
+    "desc": "A mini browser app for DuckOS.",
+    "url": "https://pripro101.github.io/Prog/apps/progminiweb/index.html"
+  },
+  "example": {
+    "name": "Example App",
+    "desc": "This is a test app for DuckOS.",
+    "url": "https://pripro101.github.io/Prog/apps/example/index.html"
+  }
+}

@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background: black;
+  color: green;
+  font-family: monospace;
+}
+#browser-ui {
+  display: flex;
+  padding: 5px;
+  background: #002200;
+}
+#url-bar {
+  flex: 1;
+  padding: 5px;
+  background: black;
+  color: green;
+  border: 1px solid green;
+}
+#go-button {
+  background: #004400;
+  color: green;
+  border: 1px solid green;
+  padding: 5px 10px;
+}
+iframe#browser-frame {
+  width: 100%;
+  height: calc(100vh - 35px);
+  border: none;
+}
